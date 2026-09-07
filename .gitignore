@@ -1,0 +1,13 @@
+# Local QA and distribution artifacts
+.qa/
+TecnoCAM-Windows-Portable.zip
+TecnoCAM-Descargas-HF5-ICON2-LANDING-C01.zip
+
+# Local mockups and reference images not used by the public landing
+assets/1000860016.jpg
+assets/1000860018.jpg
+assets/FIRMA-FINAL.png
+assets/MOCKUP-FINAL-TECNOCAM-HORIZONTAL.png
+assets/MOCKUP-FINAL-TECNOCAM-PUBLICO.png
+assets/MOCKUP-FINAL-TECNOCAM-VERTICAL.png
+assets/download.png
