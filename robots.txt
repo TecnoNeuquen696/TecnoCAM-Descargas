@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tecnoneuquen696.github.io/TecnoCAM-Descargas/sitemap.xml
